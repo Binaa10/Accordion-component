@@ -71,3 +71,4 @@ function AccordionItem({ title, num, onOpen, curOpen, children }) {
     </div>
   );
 }
+
